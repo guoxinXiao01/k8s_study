@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/cluster-proportional-autoscaler-amd64:1.0.0
+FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.0
 MAINTAINER xiaoguoxin 
