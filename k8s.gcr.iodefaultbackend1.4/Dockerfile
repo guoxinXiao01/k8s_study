@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/defaultbackend:1.4
+FROM quay.io/kubernetes-service-catalog/user-broker:v0.1.38
 MAINTAINER xiaoguoxin 1
