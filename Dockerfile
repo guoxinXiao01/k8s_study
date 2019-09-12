@@ -1,2 +1,2 @@
-FROM quay.io/kubernetes-service-catalog/user-broker:v0.1.38
+FROM quay.io/jetstack/cert-manager-controller:v0.6.2
 MAINTAINER xiaoguoxin 1
