@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/pause:3.1
+FROM rancher/local-path-provisioner:v0.0.11
 MAINTAINER xiaoguoxin 1
