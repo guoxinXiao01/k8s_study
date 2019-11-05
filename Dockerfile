@@ -1,2 +1,2 @@
-FROM rancher/local-path-provisioner:v0.0.11
+FROM rancher/klipper-helm:v0.1.5
 MAINTAINER xiaoguoxin 1
