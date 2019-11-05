@@ -1,2 +1,2 @@
-FROM quay.io/jetstack/cert-manager-controller:v0.6.2
+FROM k8s.gcr.io/pause:3.1
 MAINTAINER xiaoguoxin 1
