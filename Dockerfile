@@ -1,2 +1,2 @@
-FROM rancher/klipper-helm:v0.1.5
+FROM pilot:1.1.0
 MAINTAINER xiaoguoxin 1
