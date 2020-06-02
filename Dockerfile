@@ -1,2 +1,2 @@
-FROM velero/velero:v1.4.0
+FROM velero/velero-plugin-for-aws:v1.0.0
 MAINTAINER xiaoguoxin 1
