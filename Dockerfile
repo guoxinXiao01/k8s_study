@@ -1,2 +1,2 @@
-FROM pilot:1.1.0
+FROM velero:v1.4.0
 MAINTAINER xiaoguoxin 1
