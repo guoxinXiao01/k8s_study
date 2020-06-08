@@ -1,2 +1,2 @@
-FROM velero/velero-plugin-for-aws:v1.0.0
+FROM velero-restic-restore-helper:v1.2.0
 MAINTAINER xiaoguoxin 1
