@@ -1,2 +1,2 @@
-FROM velero/velero-restic-restore-helper:v1.2.0
+FROM quay.io/k8scsi/csi-node-driver-registrar:v1.2.0
 MAINTAINER xiaoguoxin 1
