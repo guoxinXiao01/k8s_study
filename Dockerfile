@@ -1,2 +1,2 @@
-FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.21.0
+FROM kubesphere/ks-installer:v3.0.0
 MAINTAINER xiaoguoxin 1
