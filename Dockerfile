@@ -1,2 +1,2 @@
-FROM google/cadvisor:v0.28.3
+FROM k8s.gcr.io/node-problem-detector:v0.8.1
 MAINTAINER xiaoguoxin 1
