@@ -1,2 +1,2 @@
-FROM quay.io/kubernetes-ingress-controller/nginx-ingress-controller:0.26.2
+FROM k8s.gcr.io/ingress-nginx/controller:v0.35.0
 MAINTAINER xiaoguoxin 1
