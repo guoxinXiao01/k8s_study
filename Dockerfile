@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/liveness
+FROM k8s.gcr.io/goproxy:0.1
 MAINTAINER xiaoguoxin 1
