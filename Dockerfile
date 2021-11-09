@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/goproxy:0.1
+FROM mcr.microsoft.com/windows/server:ltsc2022
 MAINTAINER xiaoguoxin 1
