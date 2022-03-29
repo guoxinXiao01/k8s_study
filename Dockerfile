@@ -1,2 +1,2 @@
-FROM gcr.io/gcp-runtimes/ubuntu_18_0_4
+FROM gcr.io/distroless/static:nonroot
 MAINTAINER xiaoguoxin 1
