@@ -1,2 +1,2 @@
-FROM registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.10.0
+FROM registry.k8s.io/kube-apiserver:v1.25.2
 MAINTAINER xiaoguoxin 1
