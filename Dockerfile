@@ -1,2 +1,2 @@
-FROM registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.8.0
+FROM registry.k8s.io/sig-storage/csi-resizer:v1.8.0
 MAINTAINER xiaoguoxin 1
