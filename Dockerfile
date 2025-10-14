@@ -1,1 +1,1 @@
-FROM vllm-openai:latest
+FROM k8s.gcr.io/node-problem-detector:v0.8.13
