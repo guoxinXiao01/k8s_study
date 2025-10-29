@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/static
+FROM alpine 
