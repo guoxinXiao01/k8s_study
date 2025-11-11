@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/static
+FROM golang:1.24-alpine3.19
