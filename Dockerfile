@@ -1,1 +1,1 @@
-FROM  registry.k8s.io/node-problem-detector/node-problem-detector:v1.34.0
+FROM  kube-rbac-proxy:v0.15.0-arm64 
